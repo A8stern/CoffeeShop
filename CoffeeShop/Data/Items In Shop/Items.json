@@ -1,0 +1,171 @@
+[
+  {
+    "type": {"name": "Hot drinks"},
+    "name": "Espresso",
+    "price": "2.99",
+    "picture": "espresso",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Hot drinks"},
+    "name": "Double espresso",
+    "price": "3.49",
+    "picture": "espresso",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Hot drinks"},
+    "name": "Americano",
+    "price": "3.49",
+    "picture": "americano",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Hot drinks"},
+    "name": "Cappuccino",
+    "price": "3.49",
+    "picture": "cappuccino",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Hot drinks"},
+    "name": "Latte",
+    "price": "3.49",
+    "picture": "latte",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Hot drinks"},
+    "name": "Flat white",
+    "price": "3.49",
+    "picture": "flatWhite",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Hot drinks"},
+    "name": "Raf",
+    "price": "3.99",
+    "picture": "raf",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Hot drinks"},
+    "name": "Hot chocolate",
+    "price": "2.99",
+    "picture": "hotChocolate",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Hot drinks"},
+    "name": "Black tea",
+    "price": "2.49",
+    "picture": "blackTea",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Hot drinks"},
+    "name": "Green tea",
+    "price": "2.99",
+    "picture": "greenTea",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Cold drinks"},
+    "name": "Vanila milkshake",
+    "price": "4.99",
+    "picture": "vanilaMilkshake",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Cold drinks"},
+    "name": "Banana milkshake",
+    "price": "4.99",
+    "picture": "bananaMilkshake",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Cold drinks"},
+    "name": "Ice Latte",
+    "price": "3.49",
+    "picture": "iceLatte",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Sandwiches"},
+    "name": "Sandwich with tuna",
+    "price": "4.99",
+    "picture": "tunaSandwich",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Sandwiches"},
+    "name": "Sandwich with ham and cheese",
+    "price": "4.99",
+    "picture": "hamCheeseSandwich",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Sandwiches"},
+    "name": "Sandwich with tomato and mozarella",
+    "price": "5.99",
+    "picture": "tomatoMazarellaSandwich",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Deserts"},
+    "name": "Cheesecake",
+    "price": "3.99",
+    "picture": "cheesecake",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Deserts"},
+    "name": "Croissant classic",
+    "price": "1.99",
+    "picture": "croissantClassic",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Deserts"},
+    "name": "Croissant with almond cream",
+    "price": "2.99",
+    "picture": "croissantAlmond",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Deserts"},
+    "name": "Chocolate cake",
+    "price": "2.99",
+    "picture": "chocolateCake",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Bread"},
+    "name": "Baguette",
+    "price": "1.99",
+    "picture": "baguette",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Bread"},
+    "name": "Multigrain bread",
+    "price": "2.99",
+    "picture": "multigrainBread",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Bread"},
+    "name": "Focaccia",
+    "price": "2.99",
+    "picture": "focaccia",
+    "description": "-"
+  },
+  {
+    "type": {"name": "Bread"},
+    "name": "Ciabatta",
+    "price": "2.99",
+    "picture": "ciabatta",
+    "description": "-"
+  },
+]
+
